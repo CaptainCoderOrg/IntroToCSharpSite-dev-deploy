@@ -37,7 +37,7 @@ function firebaseLogin(provider) {
     if (_user) return; // If we're already logged in, noop
     // const provider = providernew firebase_auth.GoogleAuthProvider();
     const auth = firebase_auth.getAuth();
-    firebase_auth.signInWithPopup(auth, provider)
+    firebase_auth.signInWithRedirect(auth, provider)
         .then((result) => {}).catch((error) => {
             console.error("Error!");
             console.error(error);
