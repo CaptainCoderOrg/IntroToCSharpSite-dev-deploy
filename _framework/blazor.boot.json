@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "IntroToCSharp",
   "resources": {
-    "hash": "sha256-MqME7e7443WSSNffvM9Yyu9LOtMg0PkPVL32dhWdSb8=",
+    "hash": "sha256-Vb2UFfzA5ANV6EMa+Nyc4gIQG5q1OMSWu99KW1Pf0ls=",
     "jsModuleNative": {
       "dotnet.native.8.0.1.ahpp78valh.js": "sha256-SGOlISx+3G4kkvpC9Uq3qoPGsnjxGmW61QBev0lyI5U="
     },
@@ -18,7 +18,7 @@
     },
     "assembly": {
       "Blazored.LocalStorage.wasm": "sha256-xHBGFCMjDjvvTwtMvgaMBNmQk9JdVhGmws2/GMZlxrI=",
-      "IntroToCSharp.wasm": "sha256-zOYc7P1ADbyjRJrpMBLJrPLndfSouIoutBJdoHLMmHs=",
+      "IntroToCSharp.wasm": "sha256-BC85N8EfP5dJOlptmwJNCMhLuXeYlHWJZzaKbqEwKNc=",
       "Microsoft.AspNetCore.Components.Forms.wasm": "sha256-CeB0FGf6CsuqV69h/eyR2G++Mk+iG2L67plCz+6e/H0=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-KdmaJJhV2yUUSronkx+UVfq9kBxNL/HTTIOM3wLd0Jw=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-v6wIholcwm1deeH9l+bQryrcU+FB6c7BWJqB8Sqml/8=",
